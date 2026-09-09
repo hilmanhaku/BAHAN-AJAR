@@ -1,6 +1,9 @@
 Install VirtualBox
 https://www.virtualbox.org/wiki/Downloads
 
+Install Rufus
+https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15.exe
+
 Insatll MikrotikOs
 https://mikrotik.com/download?architecture=x86
 
